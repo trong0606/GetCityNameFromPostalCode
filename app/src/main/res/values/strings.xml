@@ -1,0 +1,142 @@
+<resources>
+    <string name="app_name">GetCityNameFromPostalCode</string>
+
+
+    //City
+    <string-array name="tentinh">
+        <item>Cao Bằng </item>
+        <item>Lạng Sơn </item>
+        <item>Quảng Ninh </item>
+        <item>Hải Phòng </item>
+        <item>Thái Bình </item>
+        <item>Nam Ðịnh </item>
+        <item>Phú Thọ </item>
+        <item>Thái Nguyên </item>
+        <item>Yên Bái </item>
+        <item>Tuyên Quang </item>
+        <item>Hà Giang </item>
+        <item>Lào Cai </item>
+        <item>Lai Châu </item>
+        <item>Sơn La </item>
+        <item>Điện Biên </item>
+        <item>Hòa Bình </item>
+        <item>Hà Nội </item>
+        <item>Hải Dương </item>
+        <item>Ninh Bình </item>
+        <item>Thanh Hóa </item>
+        <item>Nghệ An </item>
+        <item>Hà Tĩnh </item>
+        <item>Đà Nẵng </item>
+        <item>Đaklak </item>
+        <item>Đắc Nông </item>
+        <item>Lâm Ðồng </item>
+        <item>Hồ Chí Minh </item>
+        <item>Đồng Nai </item>
+        <item>Bình Dương </item>
+        <item>Long An </item>
+        <item>Tiền Giang </item>
+        <item>Vĩnh Long </item>
+        <item>Cần Thơ </item>
+        <item>Đồng Tháp </item>
+        <item>An Giang </item>
+        <item>Kiên Giang </item>
+        <item>Cà mau </item>
+        <item>Tây Ninh </item>
+        <item>Bến Tre </item>
+        <item>Bà Rịa Vũng Tàu </item>
+        <item>Quảng Bình </item>
+        <item>Quảng Trị </item>
+        <item>Thừa Thiên Huế </item>
+        <item>Quảng Ngãi </item>
+        <item>Bình Định </item>
+        <item>Phú Yên </item>
+        <item>Khánh Hòa </item>
+        <item>Gia Lai </item>
+        <item>KonTum </item>
+        <item>Sóc Trăng </item>
+        <item>Trà Vinh </item>
+        <item>Ninh Thuận </item>
+        <item>Bình Thuận </item>
+        <item>Vĩnh Phúc </item>
+        <item>Hưng yên </item>
+        <item>Hà Nam </item>
+        <item>Quảng Nam </item>
+        <item>Bình Phước </item>
+        <item>Bạc Liêu </item>
+        <item>Hậu Giang </item>
+        <item>Bắc Cạn </item>
+        <item>Bắc Giang </item>
+        <item>Bắc Ninh </item>
+    </string-array>
+
+
+
+    //Mã Tỉnh
+    <string-array name="matinh">
+        <item>11 </item>
+        <item>12 </item>
+        <item>14 </item>
+        <item>16 </item>
+        <item>17 </item>
+        <item>18 </item>
+        <item>19 </item>
+        <item>20 </item>
+        <item>21 </item>
+        <item>22 </item>
+        <item>23 </item>
+        <item>24 </item>
+        <item>25 </item>
+        <item>26 </item>
+        <item>27 </item>
+        <item>28 </item>
+        <item>29 </item>
+        <item>34 </item>
+        <item>35 </item>
+        <item>36 </item>
+        <item>37 </item>
+        <item>38 </item>
+        <item>43 </item>
+        <item>47 </item>
+        <item>48 </item>
+        <item>49 </item>
+        <item>50 </item>
+        <item>60 </item>
+        <item>61 </item>
+        <item>62 </item>
+        <item>63 </item>
+        <item>64 </item>
+        <item>65 </item>
+        <item>66 </item>
+        <item>67 </item>
+        <item>68 </item>
+        <item>69 </item>
+        <item>70 </item>
+        <item>71 </item>
+        <item>72 </item>
+        <item>73 </item>
+        <item>74 </item>
+        <item>75 </item>
+        <item>76 </item>
+        <item>77 </item>
+        <item>78 </item>
+        <item>79 </item>
+        <item>81 </item>
+        <item>82 </item>
+        <item>83 </item>
+        <item>84 </item>
+        <item>85 </item>
+        <item>86 </item>
+        <item>88 </item>
+        <item>89 </item>
+        <item>90 </item>
+        <item>92 </item>
+        <item>93 </item>
+        <item>94 </item>
+        <item>95 </item>
+        <item>97 </item>
+        <item>98 </item>
+        <item>99 </item>
+    </string-array>
+
+
+</resources>
